@@ -16,7 +16,7 @@
 
 ## 4. 最后，别忘了把 [圆圆](https://github.com/sylviasun916) 设为admin...
 
-![yuanyuan](https://raw.githubusercontent.com/evestorm/forum/master/feedback/yuanyuan.png)
+![yuanyuan](https://raw.githubusercontent.com/evestorm/forum/master/feedback/sylviasun.png)
 
 ## 说明
 
