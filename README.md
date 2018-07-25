@@ -1,4 +1,5 @@
 # forum
+
 如何设置论坛邮件提醒
 
 1. 邮箱设置![step1](https://raw.githubusercontent.com/evestorm/forum/master/step01.png)
